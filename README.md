@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ## Github Status
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=maijjoo&show_icons=true&theme=transparent"/>
+  <img src="https://github-readme-stats-maissong.vercel.app/api?username=maijjoo&show_icons=true&theme=transparent"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maijjoo&show_icons=true&locale=en&layout=compact&theme=transparent"/>
+  <img src="https://github-readme-stats-maissong.vercel.app/api/top-langs?username=maijjoo&show_icons=true&locale=en&layout=compact&theme=transparent"/>
 </div>
